@@ -3,8 +3,8 @@
     "pdf-snapshot@gimmy.local": {
       "updates": [
         {
-          "version": "1.0.0",
-          "update_link": "https://example.com/pdf-snapshot/ScreenZot-1.0.0.xpi",
+          "version": "1.0.22",
+          "update_link": "https://github.com/Gimmy1897/ScreenZot/releases/download/release/ScreenZot-1.0.22.xpi",
           "applications": {
             "zotero": {
               "strict_min_version": "6.999"
