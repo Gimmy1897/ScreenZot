@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "ScreenZot",
+  "version": "1.0.21",
+  "description": "Make a snapshot of an area of a PDF and save it as an image.",
+  "author": "Gimmy1897.dev",
+  "applications": {
+    "zotero": {
+      "id": "pdf-snapshot@gimmy.local",
+      "update_url": "https://example.com/pdf-snapshot/update.json",
+      "strict_min_version": "7.0.0",
+      "strict_max_version": "*"
+    }
+  }
+}

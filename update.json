@@ -1,0 +1,17 @@
+{
+  "addons": {
+    "pdf-snapshot@gimmy.local": {
+      "updates": [
+        {
+          "version": "1.0.0",
+          "update_link": "https://example.com/pdf-snapshot/ScreenZot-1.0.0.xpi",
+          "applications": {
+            "zotero": {
+              "strict_min_version": "6.999"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
